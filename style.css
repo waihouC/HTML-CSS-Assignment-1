@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+#first{
+    background-color: salmon;
+    width: 100vw;
+    height: 1000px;
+}
+
+#second{
+    background-color: pink;
+    width: 100vw;
+    height: 1000px;
+}
+
+#third{
+    background-color:thistle;
+    width: 100vw;
+    height: 1000px;
+}
